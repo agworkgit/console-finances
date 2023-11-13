@@ -1,26 +1,3 @@
-// The data is profit or loss with corresponding month
-// You're working with an array within an array
-// You will use for loops (maybe while loops as well) and arrays
-// The challenges is to answer the questions
-// Come up with the code that gives you the answer
-// You can't do simple calculations
-// greatestIncrease should come out of a loop
-// Question 4 highest difference
-// Question 5 highest decrease
-// The end result will be visible in the console
-
-/* You need to do the calculations and store in variables.
-Once you have done all mathematical calculations,
-you will print the result variables in the console. */
-
-// console.log(finances.length)
-// add up all the month differences and calculate the average
-// loop through the array and find highest number and lowest number + corresponding month value
-
-// 43 changes, sum them up and divide them by 86 to get the average change
-// you manipulate the i to get you the previous month
-// netChange =+ currentMonth - previousMonth
-
 const finances = [ // i++
   ['Jan-2010', 867884], // index 1
   ['Feb-2010', 984655], 
